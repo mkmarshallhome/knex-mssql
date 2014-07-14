@@ -30,7 +30,7 @@
     "lodash": "~2.4.1"
   },
   "peerDependencies": {
-    "knex": "0.5.x",
+    "knex": "0.6.x",
     "mssql": "0.5.x"
   },
   "devDependencies": {
